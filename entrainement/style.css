@@ -1,0 +1,27 @@
+body{
+    background-color: blue;
+}
+p{
+    color: brown;
+    font-size: large;
+}
+.description{
+    color: rgb(0, 0, 100);
+}
+.serif{
+    font-family: 'Courier New', Courier, monospace;
+}
+#couleur{
+    background-color: bisque;
+    font-family: "Playfair Display", serif;
+}
+.center{
+    text-align: center;
+}
+#bordure{
+    border: 20px red dashed;
+    padding: 20px;
+    margin: 30px;
+
+    
+}
